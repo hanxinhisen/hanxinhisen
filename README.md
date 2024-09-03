@@ -6,4 +6,4 @@
 
 ## 📈 主页访问量
 
-![](https://profile-counter.glitch.me/chuzhixin/count.svg)
+![](https://profile-counter.deno.dev/hanxinhisen/count.svg)
